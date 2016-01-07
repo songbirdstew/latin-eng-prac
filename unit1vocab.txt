@@ -1,0 +1,25 @@
+ambulat:he/she walks
+cenat:he/she dines
+festinat:he/she hurries
+intrat:he/she enters
+laborat:he/she works
+fessa:tired
+laeta:happy
+parata:ready
+mox:soon
+non:not
+casa:house, cottage
+cena:dinner
+femina:woman
+puella:girl
+et:and
+sed:but
+in casam:into the house
+ieiuna:hungry
+ecce:look
+inquit:he/she says
+ad mensam:to the table
+avide:greedily
+postridie:the next day
+ad tabernas:to the shops
+redit:he/she returns
